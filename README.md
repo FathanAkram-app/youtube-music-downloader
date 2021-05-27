@@ -1,5 +1,3 @@
 # youtube-music-downloader
 
-Libraries
--pafy
--youtubesearchpython
+youtube music downloader made with python
